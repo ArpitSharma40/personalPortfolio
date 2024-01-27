@@ -24,6 +24,7 @@ body
     line-height: 1.5;
     font-size: 16px;
     font-family: 'poppins' sans-serif;
+    overflow-x: hidden;
 }
 *
 {
@@ -924,7 +925,7 @@ h3.my-profession
     .email{
        line-break: anywhere;
     }
-    .social-media-button{
+    /* .social-media-button{
         right: -120px !important; 
     }
     .social-media-button:hover{
@@ -945,7 +946,7 @@ h3.my-profession
       
       .soci-media-button:hover {
         right: -30px !important; 
-      }
+      } */
       .typing{
         font-size: 25px;
         line-break: anywhere;
